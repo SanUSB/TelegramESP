@@ -2,6 +2,7 @@
 https://github.com/shurillu/CTBot
 https://randomnerdtutorials.com/telegram-control-esp32-esp8266-nodemcu-outputs/
 https://sanusb.blogspot.com/2020/06/plataformas-para-deploy-de-aplicacoes.html
+https://sanusb.blogspot.com/2017/04/comunicacao-iot-esp8266-telegram.html
 Video: https://www.youtube.com/watch?v=XWMOyjoGw_U
 */
 #include "CTBot.h" 
