@@ -8,8 +8,8 @@ Video: https://www.youtube.com/watch?v=XWMOyjoGw_U
 CTBot bot; 
 
 //Parâmetros para conexão com wifi e Telegram
-String wifi  = "SanUSB";
-String senha  = "sanusblaese19";
+String wifi  = "xxxxxxxxxxxxxx";
+String senha  = "yyyyyyyyyyyyy";
 String token = "XXXXXXXXXX:aaaaaaaaaaaaaa-bbbbbbbbbbb-xxx-yy"; //TOKEN
 
 //Pinos
