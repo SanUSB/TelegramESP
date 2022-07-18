@@ -10,7 +10,7 @@ CTBot bot;
 //Parâmetros para conexão com wifi e Telegram
 String wifi  = "SanUSB";
 String senha  = "sanusblaese19";
-String token = "5499143558:AAELcv1EiSdp4H-IhUXh70C7CMc1-ndx-do"; //TOKEN: XXXXXXXXXX:aaaaaaaaaaaaaa-bbbbbbbbbbb-xxx-yy
+String token = "XXXXXXXXXX:aaaaaaaaaaaaaa-bbbbbbbbbbb-xxx-yy"; //TOKEN
 
 //Pinos
 int rele = 5; 
@@ -46,7 +46,7 @@ void loop(){
     usuario = msg.sender.username;
     Serial.println(usuario + ": " + msg.text);
 
-    if (msg.sender.id != 309616823){// Your CHAT_ID - esptelegbot
+    if (msg.sender.id != 111111111){// Your CHAT_ID - t.me/myidbot
       bot.sendMessage(msg.sender.id, "Acesso negado");
     }
     else {
